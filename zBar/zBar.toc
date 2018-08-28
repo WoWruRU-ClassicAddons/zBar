@@ -1,8 +1,8 @@
 ﻿## Interface: 11200
 ## Title: zBar
 ## Notes: Action Bar Enhance.|n ZeroFire's burning ceiling
-## Title-zhCN: zBar - |cffFF3300炽火|r|cff33AAFF动作条|r
 ## Notes-zhCN: 让你感受燃烧的快感！|n 作者：炽火 Zero ℃ (zero_wows@yahoo.com.cn)
+## Notes-ruRU: Расширение панели действий.
 ## Author: Zero Fire
 ## Author-zhCN: 炽火 Zero ℃
 ## Version: 1.15
@@ -11,9 +11,10 @@
 ## OptionalDeps: Zero, !!Warmup
 ## SavedVariablesPerCharacter: zBar
 
-localization.cn.lua
-localization.tw.lua
-localization.en.lua
+Locale\localization.en.lua
+Locale\localization.ru.lua
+Locale\localization.cn.lua
+Locale\localization.tw.lua
 
 zBar.xml
 zBarOption.xml

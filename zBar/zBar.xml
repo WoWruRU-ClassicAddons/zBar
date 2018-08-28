@@ -33,13 +33,13 @@ xsi:schemaLocation="http://www.blizzard.com/wow/ui/ ..\..\UI.xsd">
 				<Anchor point="BOTTOM" relativePoint="TOP"/>
 			</Anchors>
 		</ButtonText>
-		<NormalTexture file="Interface\AddOns\zBar\tab1.tga">
+		<NormalTexture file="Interface\AddOns\zBar\Images\tab1.tga">
 			<Size x="56" y="12"/>
 			<Anchors>
 				<Anchor point="CENTER"/>
 			</Anchors>
 		</NormalTexture>
-		<HighlightTexture file="Interface\Addons\zBar\tab2.tga" alphaMode="ADD">
+		<HighlightTexture file="Interface\Addons\zBar\Images\tab2.tga" alphaMode="ADD">
 			<Size x="56" y="12"/>
 			<Anchors>
 				<Anchor point="CENTER"/>

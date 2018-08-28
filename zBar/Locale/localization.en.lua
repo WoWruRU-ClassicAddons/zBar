@@ -1,6 +1,4 @@
-﻿if (GetLocale() == "enUS") then
-
-ZBAR_NAMES = {"zBar1","zBar2","zBar3","zBar4","Left","Right","BRight","BLeft","Main2","Main","Pet","Bag","Help","Shape","XP","Remind"}
+﻿ZBAR_NAMES = {"zBar1","zBar2","zBar3","zBar4","Left","Right","BRight","BLeft","Main2","Main","Pet","Bag","Help","Shape","XP","Remind"}
 
 ZBAROPTION_TITLE		= "zBar Option"
 ZBAROPTION_SELECTBAR	= "Select Bar"
@@ -109,5 +107,3 @@ BINDING_NAME_ACTIONBUTTON21 = "Main2 Button9"
 BINDING_NAME_ACTIONBUTTON22 = "Main2 Button10"
 BINDING_NAME_ACTIONBUTTON23 = "Main2 Button11"
 BINDING_NAME_ACTIONBUTTON24 = "Main2 Button12"
-
-end 
